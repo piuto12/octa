@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #dfd7bf;
+    size: 100%;
+}
+.bar {
+    margin-left: 950px;
+    margin-top: 40px;
+}
+.bar ul li {
+    display: inline;
+    margin: 45px;
+    font-size: 18px;
+    align-items: center;
+}
+.bar ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+.logo{
+    font-size: 29px;
+    float: left;
+    margin-left: 100px;
+    margin-top: -20px;
+}
+.page{
+    margin-left: 120px;
+    font-size: 30px;
+    margin-top: 90px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+hr{
+    margin-top: 70px;
+}
+.par{
+    font-size: 22px;
+    margin-left: 120px;
+    margin-top: 10px;
+    margin-top: 30px;
+}
+
+.in{
+    margin-left: 450px;
+    margin-top: -580px;
+}
+.select{
+    padding: 8px 12px;
+    color: #ffffff;
+    background-color: rgb(93, 93, 93);
+    border: 1px solid  rgb(0, 136, 255);
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-top: 20px;
+
+
+}
+.Booking{
+    margin-left: 190px;
+    margin-top: 10px;
+    font-size: 15px;
+    border-radius: 4px;
+    padding: 8px 40px;
+    background-color: #6095ff;
+}
